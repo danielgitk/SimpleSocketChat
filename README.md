@@ -1,4 +1,10 @@
 # SimpleSocketChat
+
+Name: Daniel Geremew
+ID: ATR/8104/09
+
+uses Client-Server Architecture
+
 simple console based chat application using sockets in java
 
 
